@@ -10,9 +10,10 @@ To install dependency packages:
 pip install -r requirements.txt
 ```
 run doing_all.ipynb
-```
+
 
 # Acknowledgments
+```
 This project is inspired by the ((https://github.com/kathrinse/be_great.git; https://github.com/sebhaan/TabPFGen.git; https://github.com/zhxfei/tabular_augmentation.git), thanks to the contribution of this project.
 
 # Cite
@@ -40,4 +41,3 @@ This project is inspired by the ((https://github.com/kathrinse/be_great.git; htt
 - China University of Petroleum (East China)
 - email: b22010034@s.upc.edu.cn
 - 
-```
