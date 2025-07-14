@@ -20,9 +20,7 @@ This project is inspired by the ((https://github.com/kathrinse/be_great.git; htt
 ```
 # Cite
 #### SMOTE
-```
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
-```
 #### MIXUP
 [ICLR' 18]mixup: BEYOND EMPIRICAL RISK MINIMIZATION [Mixup](https://github.com/facebookresearch/mixup-cifar10)
 
@@ -39,8 +37,11 @@ This project is inspired by the ((https://github.com/kathrinse/be_great.git; htt
 [ICML' 23] TabDDPM: Modelling Tabular Data with Diffusion Models
 [TabDDPM](https://github.com/yandex-research/tab-ddpm)
 
+```
 # Connection
 - Connection
 - Xin Luo, Jianmeng Sun, Peng Chi, Ran Zhang, Ruikang Cui, Xinghua Ci and Wei Liu
 - China University of Petroleum (East China)
 - email: b22010034@s.upc.edu.cn
+- 
+```
