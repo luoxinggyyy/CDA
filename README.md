@@ -8,10 +8,8 @@
 To install dependency packages:
 ```
 pip install -r requirements.txt
-
-```
 run doing_all.ipynb
-
+```
 ![image](workflow.jpg)
 
 # Acknowledgments
