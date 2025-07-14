@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 run doing_all.ipynb
 
-![image](workflow.tif)
+![image](workflow.jpg)
 
 # Acknowledgments
 This project is inspired by the ((https://github.com/kathrinse/be_great.git; https://github.com/sebhaan/TabPFGen.git; https://github.com/zhxfei/tabular_augmentation.git), thanks to the contribution of this project.
