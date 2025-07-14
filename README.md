@@ -16,10 +16,8 @@ run doing_all.ipynb
 ```
 This project is inspired by the ((https://github.com/kathrinse/be_great.git; https://github.com/sebhaan/TabPFGen.git; https://github.com/zhxfei/tabular_augmentation.git), thanks to the contribution of this project.
 ```
-
 # Cite
 
-```
 #### SMOTE
 [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
 #### MIXUP
@@ -39,7 +37,6 @@ This project is inspired by the ((https://github.com/kathrinse/be_great.git; htt
 [TabDDPM](https://github.com/yandex-research/tab-ddpm)
 ```
 # Connection
-```
 - Connection
 - Xin Luo, Jianmeng Sun, Peng Chi, Ran Zhang, Ruikang Cui, Xinghua Ci and Wei Liu
 - China University of Petroleum (East China)
