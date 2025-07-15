@@ -14,7 +14,7 @@ run doing_all.ipynb
 ![image](workflow.jpg)
 
 # Acknowledgments
-This project is inspired by the ((https://github.com/kathrinse/be_great.git; https://github.com/sebhaan/TabPFGen.git; https://github.com/zhxfei/tabular_augmentation.git), thanks to the contribution of this project.
+This project is inspired by the (https://github.com/kathrinse/be_great.git; https://github.com/sebhaan/TabPFGen.git; https://github.com/zhxfei/tabular_augmentation.git), thanks to the contribution of this project.
 
 # Cite
 
@@ -35,6 +35,14 @@ This project is inspired by the ((https://github.com/kathrinse/be_great.git; htt
 #### TabDDPM
 [ICML' 23] TabDDPM: Modelling Tabular Data with Diffusion Models
 [TabDDPM](https://github.com/yandex-research/tab-ddpm)
+
+#### GReaT
+[ICLR' 23] LANGUAGE MODELS ARE REALISTIC TABULAR DATA  GENERATORS
+[GReaT](https://github.com/kathrinse/be_great)
+
+#### TabPFGen
+[NeurIPS' 23] TabPFGen – Tabular Data Generation with TabPFN
+[TabPFGen](https://github.com/sebhaan/TabPFGen)
 
 # Connection
 - Connection
