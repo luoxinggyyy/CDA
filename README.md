@@ -4,7 +4,7 @@
 
 
 ## Usage method
-SMOTE, SMOTETomek, CTGAN, TVAE, DletaVAE, TabDDPM, GReaT, TabPFGen
+__SMOTE, SMOTETomek, CTGAN, TVAE, DletaVAE, TabDDPM, GReaT, TabPFGen__
 ### Quick Start
 To install dependency packages:
 ```
